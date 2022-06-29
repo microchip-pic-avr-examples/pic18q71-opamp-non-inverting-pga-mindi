@@ -30,7 +30,7 @@ The amplification of the Non-Inverting Programmable Gain Amplifier can be adjust
 |110        | 2R   | 14R  |  8                       |
 |101        | 4R   | 12R  |  4                       |
 |100    	  | 6R   | 10R  |  8/3                     |
-|011     	  | 8R   | 8R   |  1                       |
+|011     	  | 8R   | 8R   |  2                       |
 |010        | 12R  | 4R   |  4/3                     |
 |001        | 14R  | 2R   |  8/7                     |
 |000        | 15R  | 1R   |  16/15                   |
