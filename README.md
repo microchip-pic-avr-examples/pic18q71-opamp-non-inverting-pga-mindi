@@ -17,7 +17,7 @@ The Non-Inverting Programmable Gain Amplifier is a configuration with run-time s
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the following **Mindi schematic [here](schematics/Non_inverting_PGA.wxsch)**.
+Download and open the following **Mindi schematic [here](schematics/Non_Inverting_PGA.wxsch)**.
 
 Press the _play_ button to simulate with an example stimulus source.
 
